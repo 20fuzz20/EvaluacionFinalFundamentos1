@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <linearGradient spreadMethod="reflect" id="svg_2">
+   <stop offset="0.147156" stop-opacity="0.996094" stop-color="#2626ef"/>
+   <stop offset="0.854187" stop-opacity="0.996094" stop-color="#fc891e"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#ff007f" transform="matrix(12.442428031563281,0,0,12.944212178845046,-627.9444401879041,-719.1501475607375) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_1" y="79.836871" x="76.633707" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="url(#svg_2)">FCA</text>
+ </g>
+</svg>
